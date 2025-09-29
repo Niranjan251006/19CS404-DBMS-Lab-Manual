@@ -207,10 +207,12 @@ FROM Old_customers;
 
 **Output:**
 
+<img width="1689" height="368" alt="image" src="https://github.com/user-attachments/assets/0ae8f4fd-9804-4c3a-940b-856edb1136a4" />
 
 
 **Question 7**
 ---
+<img width="1513" height="390" alt="image" src="https://github.com/user-attachments/assets/b79686f2-4799-4fe4-b145-f31da66ca347" />
 
 
 ```sql
@@ -247,7 +249,7 @@ INSERT INTO Customers (ID, NAME, AGE, ADDRESS, SALARY) VALUES
 
 **Question 9**
 ---
-<img width="1746" height="418" alt="image" src="https://github.com/user-attachments/assets/1a5f1e22-1f95-4644-b60f-a7b4d3c55b93" />
+<img width="1597" height="315" alt="image" src="https://github.com/user-attachments/assets/87731bc1-d025-4e35-9ce4-4e780607bf93" />
 
 
 ```sql
@@ -280,7 +282,8 @@ CREATE TABLE ProjectAssignments (
 
 **Output:**
 
-![Uploading image.png…]()
+<img width="1767" height="284" alt="image" src="https://github.com/user-attachments/assets/3ad8c535-6e8b-4d16-aef4-76c636b7659a" />
+
 
 
 
