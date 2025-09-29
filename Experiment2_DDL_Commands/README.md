@@ -1,4 +1,4 @@
-<img width="1781" height="399" alt="image" src="https://github.com/user-attachments/assets/4d81e1a9-2208-432c-a463-63819fc35f1b" /><img width="1781" height="399" alt="image" src="https://github.com/user-attachments/assets/737969d7-54d7-4a61-8965-a6be4f2a8546" /># Experiment 2: DDL Commands
+# Experiment 2: DDL Commands
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
@@ -191,12 +191,12 @@ ALTER TABLE Companies ADD COLUMN dob date;
 
 **Output:**
 
-<img width="908" height="359" alt="image" src="https://github.com/user-attachments/assets/996d0d91-0cd8-42f2-8ec4-6a680081f70b" />
+<img width="1848" height="472" alt="image" src="https://github.com/user-attachments/assets/35d9af50-892d-4ad4-ae74-3818de17067c" />
 
 
 **Question 6**
 ---
-<img width="1848" height="472" alt="image" src="https://github.com/user-attachments/assets/35d9af50-892d-4ad4-ae74-3818de17067c" />
+<img width="908" height="359" alt="image" src="https://github.com/user-attachments/assets/996d0d91-0cd8-42f2-8ec4-6a680081f70b" />
 
 
 ```sql
