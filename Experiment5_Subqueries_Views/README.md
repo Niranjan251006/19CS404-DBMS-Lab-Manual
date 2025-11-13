@@ -1,5 +1,5 @@
 # Experiment 5: Subqueries and Views
-## Name: NIRANJA S
+## Name: NIRANJAN S
 ## Reg.no: 212224040221
 ## AIM
 To study and implement subqueries and views.
