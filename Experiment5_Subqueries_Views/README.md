@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## Name: RAGALA SAI VIVEK
-## Reg.no: 212223230163
+## Name: NIRANJA S
+## Reg.no: 212224040221
 ## AIM
 To study and implement subqueries and views.
 
